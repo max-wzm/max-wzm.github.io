@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>Raft算法的原理与实现</title>
+    <link href="/2023/02/04/raft/"/>
+    <url>/2023/02/04/raft/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>分布式系统</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>分布式系统</tag>
+      
+      <tag>Golang</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>农民工与企业的&quot;欠薪&quot;问题——以信息经济学视角分析</title>
     <link href="/2023/01/22/infoeco/"/>
     <url>/2023/01/22/infoeco/</url>
